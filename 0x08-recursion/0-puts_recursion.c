@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * _puts_recursion - main function
- *
- * @s: function parameter
- *
+ * _puts_recursion - main function
+ * @s: function parameter
+ *
  * Return: Always 0.
  */
 
