@@ -1,12 +1,3 @@
-#include <stdio.h>
-
-int main(void)
-{
-	char msg[] = "Hello, Holberton";
-	printf("%s\n",msg);
-	return (0);
-}
-
 SECTION .data
 msg:	db "Hello, Holberton", 0
 fmt:	db "%s", 10, 0
